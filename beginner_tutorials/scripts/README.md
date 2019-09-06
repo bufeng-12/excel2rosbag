@@ -1,4 +1,4 @@
-# excel2rosbag
+# txt2rosbag
 convert the txt or excel data to rosbag type of lidar
 
 
